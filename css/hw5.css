@@ -1,0 +1,34 @@
+
+body{
+    margin: 50px;
+    background-color: lightskyblue;
+}
+
+td{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    vertical-align: center;
+    font-size: 18px;
+}
+.blue{
+    background-color: mediumpurple;
+    font-weight: bold;
+
+}
+table{
+    border: 2px;
+    border-collapse: collapse;
+}
+.grey{
+    background-color: lightgray;
+}
+div{
+    background-color: aliceblue;
+    width: 700px;
+    height: 450px;
+}
+table{
+    margin: auto;
+
+}
